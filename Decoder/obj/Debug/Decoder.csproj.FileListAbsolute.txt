@@ -1,0 +1,10 @@
+C:\CShop\Decoder\Decoder\bin\Debug\Decoder.exe.config
+C:\CShop\Decoder\Decoder\bin\Debug\Decoder.exe
+C:\CShop\Decoder\Decoder\bin\Debug\Decoder.pdb
+C:\CShop\Decoder\Decoder\obj\Debug\Decoder.csprojAssemblyReference.cache
+C:\CShop\Decoder\Decoder\obj\Debug\Decoder.FrmMain.resources
+C:\CShop\Decoder\Decoder\obj\Debug\Decoder.Properties.Resources.resources
+C:\CShop\Decoder\Decoder\obj\Debug\Decoder.csproj.GenerateResource.cache
+C:\CShop\Decoder\Decoder\obj\Debug\Decoder.csproj.CoreCompileInputs.cache
+C:\CShop\Decoder\Decoder\obj\Debug\Decoder.exe
+C:\CShop\Decoder\Decoder\obj\Debug\Decoder.pdb
